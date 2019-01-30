@@ -91,7 +91,6 @@ public class FacReg extends AppCompatActivity {
         });
 
     }
-
     public void fbuttonReg(View view) {
 
         registerUser();
